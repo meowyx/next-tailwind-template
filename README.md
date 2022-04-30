@@ -9,7 +9,7 @@ This project is built with the following open source libraries, frameworks and l
 | --------------------------------------------- | ------------------------------------------------------------------ |
 | [NextJS](https://nextjs.org/docs) | React Framework for Production |
 | [Typescript](https://www.typescriptlang.org/docs/) | Syntax for types |
-| [TailwindCss3](https://tailwindcss.com/) | CCS Framework |
+| [TailwindCss3](https://tailwindcss.com/) | CSS Framework |
 
 ---
 
