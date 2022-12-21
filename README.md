@@ -1,6 +1,6 @@
-# Next + TailwindCss3 Boilerplate
+# Next + TailwindCSS + DaisyUI Boilerplate
 
-A boilerplate for a basic setup for a frontend project to interact with tailwindcss
+A boilerplate for a basic setup for a frontend project to interact with tailwindcss + daisyUI
 
 ## Technologies
 
@@ -10,6 +10,7 @@ This project is built with the following open source libraries, frameworks and l
 | [NextJS](https://nextjs.org/docs) | React Framework for Production |
 | [Typescript](https://www.typescriptlang.org/docs/) | Syntax for types |
 | [TailwindCss3](https://tailwindcss.com/) | CSS Framework |
+| [daisyUI](https://daisyui.com/) | daisyui components |
 
 ---
 
